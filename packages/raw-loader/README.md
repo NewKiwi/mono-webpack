@@ -1,11 +1,7 @@
 # `@nk/raw-loader`
+在webpack中将文件作为字符串导入的loader
 
-> TODO: description
-
-## Usage
-
-```
-const rawLoader = require('@nk/raw-loader');
-
-// TODO: DEMONSTRATE API
+## 安装
+```bash
+npm i -D @nk/raw-loader
 ```

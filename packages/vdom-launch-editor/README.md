@@ -1,15 +1,12 @@
 # `@nk/vdom-launch-editor`
 
-## Usage
-
-```
-const vdomLaunchEditor = require('@nk/vdom-launch-editor');
-
-// TODO: DEMONSTRATE API
+## 安装
+```bash
+npm i -D @nk/vdom-launch-editor
 ```
 
-## vue-cli创建项目配置
-vue-cli版本:@vue/cli 4.5.3
+## 用法
+vue-cli版本:**@vue/cli 4.5.3**
 
 ```javascript
 const vdomLaunchEditorPlugin = require('@nk/vdom-launch-editor/dist/plugin').default
@@ -30,7 +27,3 @@ module.exports = {
 }
 
 ```
-
-## 待办
-因为vue-loader的配置和执行流程，会让vdom-launch-editor执行两次，要增加条件判断
-
