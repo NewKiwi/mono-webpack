@@ -1,0 +1,14 @@
+{
+  "extends": "../../tsconfig.root.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "./src",
+    "declaration": true,
+    "outDir": "dist",
+    "target": "ES5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+  }
+}
