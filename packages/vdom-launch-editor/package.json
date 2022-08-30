@@ -1,6 +1,6 @@
 {
   "name": "@nk/vdom-launch-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "loader and plugin for webpack used in Vue project, can launch editor by clicking DOM",
   "keywords": [],
   "author": "kiwi <790623504@qq.com>",

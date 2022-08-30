@@ -1,8 +1,12 @@
 {
   "name": "@nk/raw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make file as string to import in webpack",
-  "keywords": ["webpack", "raw-loader", "loader"],
+  "keywords": [
+    "webpack",
+    "raw-loader",
+    "loader"
+  ],
   "author": "kiwi <790623504@qq.com>",
   "license": "MIT",
   "main": "dist/index.js",
