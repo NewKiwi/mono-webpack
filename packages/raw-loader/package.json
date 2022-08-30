@@ -27,5 +27,6 @@
   "devDependencies": {
     "typescript": "^4.7.4",
     "webpack": "^5.74.0"
-  }
+  },
+  "gitHead": "3eaff9f6a908ef2dcbd5a714c84831f9a93e03d6"
 }

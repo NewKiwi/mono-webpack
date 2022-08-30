@@ -24,5 +24,6 @@
     "@babel/types": "^7.18.10",
     "@vue/compiler-core": "^3.2.37",
     "webpack": "^5.74.0"
-  }
+  },
+  "gitHead": "3eaff9f6a908ef2dcbd5a714c84831f9a93e03d6"
 }
