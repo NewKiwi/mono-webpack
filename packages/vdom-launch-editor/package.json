@@ -6,9 +6,12 @@
   "author": "kiwi <790623504@qq.com>",
   "license": "MIT",
   "main": "dist/index.js",
-  "directories": {
-    "lib": "src"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewKiwi/mono-webpack.git",
+    "directory": "packages/vdom-launch-editor"
   },
+  "homepage": "https://github.com/NewKiwi/mono-webpack/tree/main/packages/vdom-launch-editor",
   "files": [
     "dist"
   ],
