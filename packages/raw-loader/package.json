@@ -28,5 +28,9 @@
     "typescript": "^4.7.4",
     "webpack": "^5.74.0"
   },
-  "gitHead": "963873737389072763373e775eb5e95a777c6438"
+  "gitHead": "595f87673b4b91294301737d6bba35521d48dd67",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }

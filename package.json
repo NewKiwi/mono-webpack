@@ -43,9 +43,5 @@
     "pre-commit": "lint-staged",
     "commit-msg": "node scripts/verifyCommit.js"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  }
+  "dependencies": {}
 }
