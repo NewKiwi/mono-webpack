@@ -1,6 +1,6 @@
 {
   "name": "@nkiwi/raw-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "make file as string to import in webpack",
   "keywords": [
     "webpack",
