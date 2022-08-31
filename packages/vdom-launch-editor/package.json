@@ -1,6 +1,6 @@
 {
-  "name": "@nk/vdom-launch-editor",
-  "version": "1.0.2",
+  "name": "@nkiwi/vdom-launch-editor",
+  "version": "1.0.0",
   "description": "loader and plugin for webpack used in Vue project, can launch editor by clicking DOM",
   "keywords": [],
   "author": "kiwi <790623504@qq.com>",
@@ -25,5 +25,5 @@
     "@vue/compiler-core": "^3.2.37",
     "webpack": "^5.74.0"
   },
-  "gitHead": "3eaff9f6a908ef2dcbd5a714c84831f9a93e03d6"
+  "gitHead": "b7c2af3708cd0a27039ff7dda6058155377e903b"
 }
